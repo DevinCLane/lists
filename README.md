@@ -11,7 +11,7 @@ Creating proper lists with simple HTML:
     <li>Meditate
         <ol>
             <li>Breathe</li>
-                <li>When attention wanders, return to the breath</li>
+            <li>When attention wanders, return to the breath</li>
         </ol>
     </li>
     ```
