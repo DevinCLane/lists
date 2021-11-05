@@ -9,9 +9,9 @@ Creating proper lists with simple HTML:
     - e.g., 
     ```
     <li>Meditate
-                <ol>
-                    <li>Breathe</li>
-                    <li>When attention wanders, return to the breath</li>
-                </ol>
-            </li>
+        <ol>
+            <li>Breathe</li>
+                <li>When attention wanders, return to the breath</li>
+        </ol>
+    </li>
     ```
